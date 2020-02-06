@@ -6,7 +6,7 @@ import javax.persistence.*;
 import java.time.LocalDate;
 
 /**
- * Created by jt on 7/29/18.
+ * Created by Chuchi on 7/29/18.
  */
 @Setter
 @Getter

@@ -18,7 +18,7 @@ import javax.validation.Valid;
 import java.util.Collection;
 
 /**
- * Created by jt on 9/22/18.
+ * Created by Chuchi on 9/22/18.
  */
 @Controller
 @RequestMapping("/owners/{ownerId}")
